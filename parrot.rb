@@ -2,7 +2,7 @@
 # returns the phrase
 
 
-def parrot("Sqwak")
+def parrot("Sqwak!")
   puts "#{}"
     return Sqwak
 end
