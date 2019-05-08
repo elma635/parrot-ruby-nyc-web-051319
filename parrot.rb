@@ -3,5 +3,6 @@
 
 
 def parrot(default = "Sqwak!")
-  puts "#{default}" 
+  puts "#{default}"
+    default
 end
