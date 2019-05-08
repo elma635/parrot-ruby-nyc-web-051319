@@ -2,7 +2,7 @@
 # returns the phrase
 
 
-def parrot(default = "Squwak!")
+def parrot(default = "Squawk!")
   puts "#{default}"
       return default
 end
