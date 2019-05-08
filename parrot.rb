@@ -4,7 +4,7 @@
 
 def parrot(default = "Sqwak!")
   puts "#{default}"
-    default
+      return default
 end
 
-parrot (“Pretty Bird”) 
+
