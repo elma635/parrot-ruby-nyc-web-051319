@@ -4,5 +4,5 @@
 
 def parrot("Sqwak")
   puts "#{}"
-    return sqwak
+    return Sqwak
 end
